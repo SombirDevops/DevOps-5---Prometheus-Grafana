@@ -205,7 +205,7 @@ We can create this file by going to the folder in which this file is present & r
 
 All you need to do now is to open the Prometheus & Grafana in your browser using your Minikube IP & the mentioned port & start working !!
 
-![](/images/prometheus.png)
+![](/images/prom.png)
 
 ![](/images/gra.png)
 
